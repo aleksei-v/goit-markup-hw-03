@@ -87,7 +87,8 @@ img {
   letter-spacing: 0.02em;
   color: var(--major-text-color);
 }
-
+.bottom-contacts-item .link:hover,
+.bottom-contacts-item .link:focus,
 .contacts-item .link:hover,
 .contacts-item .link:focus {
   color: var(--accent-color);
